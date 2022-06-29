@@ -6,4 +6,5 @@ echo $((2#$BINARY ))
 :qa!
 :WQ
 :wq
+
 [command Line]
